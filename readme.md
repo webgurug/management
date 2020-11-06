@@ -1,4 +1,4 @@
-## Laravel Admin Panel (Current: Laravel 6.*)
+## Laravel Admin Panel (Current: Laravel 7.0*)
 
 [![StyleCI](https://styleci.io/repos/105789824/shield?style=plastic)](https://github.styleci.io/repos/105789824)
 ![GitHub contributors](https://img.shields.io/github/contributors/FTXInfotech/laravel-adminpanel.svg)
@@ -85,5 +85,4 @@ If you come across any issues please report them [here](https://github.com/FTXIn
 ## Contribution
 Feel free to create any pull requests for the project. For proposing any new changes or features you want to add to the project, you can send us an email at following addresses.
 
-    1. Alan Whitmore - alan.whitmore@ftxinfotech.com
-    2. Vicky Patel - ftx.vicky@gmail.com
+    1. Shubham Rana - webtreeinfo12@gmail.com
